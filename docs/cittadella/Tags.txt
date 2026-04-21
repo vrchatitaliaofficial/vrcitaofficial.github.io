@@ -1,12 +1,13 @@
-﻿Xeincrad|Admin|FF0000
-DisaGiada|Founder|FF00E8
+﻿DisaGiada|Founder|FF00E8
+Xeincrad|Admin|FF0000
 Moonbright|Admin|FF0000
-∗StarKnight∗|Helper|FFFF00
-Spartan117ITA|Capo Staff|FF6C00
-MrNeedleSTH|Mod|FFAB00
+Spartan117ITA|Staff Manager|FF6C00
 nikfrino|Mod|FFAB00
-tappo0730|Helper|FFFF00
-BionicLombax|Collaboratore|0A8C00
-AngelicHunnii|Virtual Idol|FF8AE9
-｜Stampante｜|Cavaliere BFG|009AFF
-ʐɛʀ0|VIP|A06AF1
+∗StarKnight∗|Helper|FFFF00
+lIShadowstormIl|Helper|FFFF00
+TailEarnhardtVT|Event Operator|33CC33
+NekoBoyLuke|Collab|999966
+Defalt4l|Collab|999966
+Kirale Cheer|Collab|999966
+Angio|Collab|999966
+｜Stampante｜|VIP|009AFF
