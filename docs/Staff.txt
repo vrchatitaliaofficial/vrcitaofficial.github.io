@@ -1,3 +1,7 @@
+#
+# Elenco persone dello staff (Staff)
+# Accesso a tutte le funzioni e a tutte le aree
+#
 DisaGiada|Staff
 Xeincrad|Staff
 Xeincrad93|Staff
@@ -9,11 +13,23 @@ nikfrino|Staff
 lIShadowstormIl|Staff
 tappo0730|Staff
 TailEarnhardtVT|Staff
+#
+# Elenco degli ospiti (Guest)
+# Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
+#
 Kirale Cheer|Guest
 MagicfluteOh|Guest
+#
+# Elenco dei cameraman (Cameraman)
+# Accesso ai backstage, alla regia ed alle funzioni della regia
+#
 MagicfluteOh|Cameraman
 EnryT|Cameraman
 NekoBoyLuke|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
 HyperControl|Cameraman
+#
+# Elenco utenti temporanei (Temporary)
+# Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
+#

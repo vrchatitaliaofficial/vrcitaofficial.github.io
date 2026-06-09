@@ -1,3 +1,7 @@
+#
+# Elenco dei ruoli
+# Formato: Loginname|Ruolo|RRGGBB
+#
 DisaGiada|Founder|FF00E8
 Xeincrad|Admin|FF0000
 Moonbright|Admin|FF0000
