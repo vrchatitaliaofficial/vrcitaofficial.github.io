@@ -13,6 +13,7 @@ nikfrino|Staff
 lIShadowstormIl|Staff
 tappo0730|Staff
 TailEarnhardtVT|Staff
+HyperControl|Staff
 #
 # Elenco degli ospiti (Guest)
 # Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
@@ -28,7 +29,6 @@ EnryT|Cameraman
 NekoBoyLuke|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
-HyperControl|Cameraman
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
