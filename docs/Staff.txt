@@ -29,6 +29,7 @@ EnryT|Cameraman
 NekoBoyLuke|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
+Lillo467|Cameraman
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
