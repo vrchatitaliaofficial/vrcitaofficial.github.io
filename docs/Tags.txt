@@ -1,25 +1,39 @@
 #
-# Elenco dei ruoli
 # Formato: Loginname|Ruolo|RRGGBB
+#
+# Elenco mod e admin
 #
 DisaGiada|Founder|FF00E8
 Xeincrad|Admin|FF0000
 Moonbright|Admin|FF0000
 Spartan117ITA|Staff Manager|FF6C00
 nikfrino|Mod|FFAB00
+#
+# Elenco degli helper
+#
 ∗StarKnight∗|Helper|FFFF00
 lIShadowstormIl|Helper|FFFF00
 tappo0730|Helper|FFFF00
+#
+# Elenco dei collaboratori
+#
 TailEarnhardtVT|Event Operator|33CC33
 NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Kirale Cheer|Collab|999966
 Angio|Collab|999966
 BlackReiss|Collab|999966
-｜Stampante｜|VIP|009AFF
-Malachiel|Cavaliere|009AFF
-EnryT|Cameraman|999966
+#
+# Elenco dei cameraman
+#
+HyperControl|Cameraman|999966
 JanbasᵺeGrıᴍFøl|Cameraman|999966
 NexusMPL|Cameraman|999966
-HyperControl|Cameraman|999966
+#EnryT|Cameraman|999966
+#Lillo467|Cameraman|999966
+#
+# Altri ruoli
+#
+｜Stampante｜|VIP|009AFF
+Malachiel|Cavaliere|009AFF
 MagicfluteOh|Presentatore|cc33cc

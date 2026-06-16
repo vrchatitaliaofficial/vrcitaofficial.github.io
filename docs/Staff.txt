@@ -24,12 +24,12 @@ MagicfluteOh|Guest
 # Elenco dei cameraman (Cameraman)
 # Accesso ai backstage, alla regia ed alle funzioni della regia
 #
-MagicfluteOh|Cameraman
-EnryT|Cameraman
 NekoBoyLuke|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
+EnryT|Cameraman
 Lillo467|Cameraman
+MagicfluteOh|Cameraman
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
