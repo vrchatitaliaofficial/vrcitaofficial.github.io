@@ -34,3 +34,13 @@ MagicfluteOh|Cameraman
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
 #
+Nelson_KAELA|Temporary
+Fudgehog Piñata|Temporary
+LeoZu|Temporary
+MagusMagnus|Temporary
+ProdyVT|Temporary
+DrClown88|Temporary
+Pingüinito|Temporary
+MarbieOceano|Temporary
+AngeloPal84|Temporary
+ThomasMarsili73|Temporary
