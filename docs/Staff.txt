@@ -18,7 +18,6 @@ HyperControl|Staff
 # Elenco degli ospiti (Guest)
 # Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
 #
-Kirale Cheer|Guest
 MagicfluteOh|Guest
 #
 # Elenco dei cameraman (Cameraman)
@@ -44,3 +43,4 @@ Pingüinito|Temporary
 MarbieOceano|Temporary
 AngeloPal84|Temporary
 ThomasMarsili73|Temporary
+ErPotato|Temporary

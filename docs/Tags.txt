@@ -26,14 +26,28 @@ BlackReiss|Collab|999966
 #
 # Elenco dei cameraman
 #
-HyperControl|Cameraman|999966
-JanbasᵺeGrıᴍFøl|Cameraman|999966
-NexusMPL|Cameraman|999966
 #EnryT|Cameraman|999966
 #Lillo467|Cameraman|999966
+JanbasᵺeGrıᴍFøl|Cameraman|999966
+NexusMPL|Cameraman|999966
 #
 # Altri ruoli
 #
 ｜Stampante｜|VIP|009AFF
 Malachiel|Cavaliere|009AFF
+HyperControl|Test User|999966
+#
+# Talent Show
+#
 MagicfluteOh|Presentatore|cc33cc
+Nelson_KAELA|Concorrente|999966
+Fudgehog Piñata|Temporary|Concorrente|999966
+LeoZu|Temporary|Concorrente|999966
+MagusMagnus|Temporary|Concorrente|999966
+ProdyVT|Temporary|Concorrente|999966
+DrClown88|Temporary|Concorrente|999966
+Pingüinito|Temporary|Concorrente|999966
+MarbieOceano|Temporary|Concorrente|999966
+AngeloPal84|Temporary|Concorrente|999966
+ThomasMarsili73|Temporary|Concorrente|999966
+ErPotato|Temporary|Concorrente|999966
