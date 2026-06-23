@@ -19,6 +19,8 @@ HyperControl|Staff
 # Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
 #
 MagicfluteOh|Guest
+BlackReiss|Guest
+_NEFASTO_|Guest
 #
 # Elenco dei cameraman (Cameraman)
 # Accesso ai backstage, alla regia ed alle funzioni della regia
@@ -44,3 +46,4 @@ MarbieOceano|Temporary
 AngeloPal84|Temporary
 ThomasMarsili73|Temporary
 ErPotato|Temporary
+TennyoYui|Temporary
