@@ -22,8 +22,7 @@ NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Kirale Cheer|Collab|999966
 Angio|Collab|999966
-BlackReiss|Collab|999966
-_NEFASTO_|Collab|999966
+#BlackReiss|Collab|999966
 #
 # Elenco dei cameraman
 #
@@ -41,6 +40,9 @@ HyperControl|Test User|999966
 # Talent Show
 #
 MagicfluteOh|Presentatore|cc33cc
+ilianor|Giuria|cc33cc
+_NEFASTO_|Giuria|cc33cc
+BlackReiss|Giuria|cc33cc
 Nelson_KAELA|Concorrente|999966
 Fudgehog Piñata|Concorrente|999966
 LeoZu|Concorrente|999966
