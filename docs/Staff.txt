@@ -21,6 +21,7 @@ HyperControl|Staff
 MagicfluteOh|Guest
 BlackReiss|Guest
 _NEFASTO_|Guest
+ilianor|Guest
 #
 # Elenco dei cameraman (Cameraman)
 # Accesso ai backstage, alla regia ed alle funzioni della regia
