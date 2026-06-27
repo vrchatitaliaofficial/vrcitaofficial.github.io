@@ -20,8 +20,8 @@ tappo0730|Helper|FFFF00
 TailEarnhardtVT|Event Operator|33CC33
 NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
-Kirale Cheer|Collab|999966
 Angio|Collab|999966
+#Kirale Cheer|Collab|999966
 #BlackReiss|Collab|999966
 #
 # Elenco dei cameraman
@@ -55,3 +55,6 @@ AngeloPal84|Concorrente|999966
 ThomasMarsili73|Concorrente|999966
 ErPotato|Concorrente|999966
 TennyoYui|Concorrente|999966
+Alexdemon25|Concorrente|999966
+Kirale Cheer|Concorrente|999966
+#
