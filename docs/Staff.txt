@@ -15,39 +15,44 @@ tappo0730|Staff
 TailEarnhardtVT|Staff
 HyperControl|Staff
 #
-# Elenco degli ospiti (Guest)
-# Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
-#
-MagicfluteOh|Guest
-BlackReiss|Guest
-_NEFASTO_|Guest
-ilianor|Guest
-#
 # Elenco dei cameraman (Cameraman)
 # Accesso ai backstage, alla regia ed alle funzioni della regia
 #
-NekoBoyLuke|Cameraman
+#EnryT|Cameraman
+#Lillo467|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
-NexusMPL|Cameraman
-EnryT|Cameraman
-Lillo467|Cameraman
 MagicfluteOh|Cameraman
+NekoBoyLuke|Cameraman
+NexusMPL|Cameraman
+#
+# Elenco degli ospiti (Guest)
+# Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
+#
+BlackReiss|Guest
+MagicfluteOh|Guest
+_NEFASTO_|Guest
+faunotears|Guest
+ilianor|Guest
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
 #
-Nelson_KAELA|Temporary
+Akahito S|Temporary
+Alexdemon25|Temporary
+AngeloPal84|Temporary
+DrClown88|Temporary
+ErPotato|Temporary
 Fudgehog Piñata|Temporary
+Kirale Cheer|Temporary
 LeoZu|Temporary
 MagusMagnus|Temporary
-ProdyVT|Temporary
-DrClown88|Temporary
-Pingüinito|Temporary
 MarbieOceano|Temporary
-AngeloPal84|Temporary
-ThomasMarsili73|Temporary
-ErPotato|Temporary
+Nelson_KAELA|Temporary
+Pingüinito|Temporary
+Pingüino2000|Temporary
+ProdyVT|Temporary
 TennyoYui|Temporary
-Alexdemon25|Temporary
-Kirale Cheer|Temporary
+ThomasMarsili73|Temporary
+cherubit|Temporary
+wolfy6767|Temporary
 #
