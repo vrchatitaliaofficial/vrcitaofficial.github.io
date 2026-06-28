@@ -21,8 +21,8 @@ TailEarnhardtVT|Event Operator|33CC33
 NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Angio|Collab|999966
-#Kirale Cheer|Collab|999966
-#BlackReiss|Collab|999966
+Kirale Cheer|Collab|999966
+BlackReiss|Collab|999966
 #
 # Altri ruoli
 #
@@ -30,33 +30,9 @@ Angio|Collab|999966
 Malachiel|Cavaliere|009AFF
 HyperControl|Test User|999966
 #
-# Elenco dei cameraman
+# Elenco dei cameraman (quando servono)
 #
 #EnryT|Cameraman|999966
 #Lillo467|Cameraman|999966
-JanbasᵺeGrıᴍFøl|Cameraman|999966
-NexusMPL|Cameraman|999966
-#
-# Talent Show
-#
-BlackReiss|Presentatore|cc33cc
-MagicfluteOh|Presentatore|cc33cc
-_NEFASTO_|Giuria|cc33cc
-faunotears|Giuria|cc33cc
-ilianor|Giuria|cc33cc
-Akahito S|Concorrente|999966
-Alexdemon25|Concorrente|999966
-AngeloPal84|Concorrente|999966
-DrClown88|Concorrente|999966
-Fudgehog Piñata|Concorrente|999966
-Kirale Cheer|Concorrente|999966
-LeoZu|Concorrente|999966
-MagusMagnus|Concorrente|999966
-MarbieOceano|Concorrente|999966
-Nelson_KAELA|Concorrente|999966
-Pingüinito|Concorrente|999966
-ProdyVT|Concorrente|999966
-TennyoYui|Concorrente|999966
-ThomasMarsili73|Concorrente|999966
-cherubit|Concorrente|999966
-#
+#JanbasᵺeGrıᴍFøl|Cameraman|999966
+#NexusMPL|Cameraman|999966

@@ -18,38 +18,18 @@ HyperControl|Staff
 # Elenco dei cameraman (Cameraman)
 # Accesso ai backstage, alla regia ed alle funzioni della regia
 #
-#EnryT|Cameraman
-#Lillo467|Cameraman
-JanbasᵺeGrıᴍFøl|Cameraman
 MagicfluteOh|Cameraman
-NekoBoyLuke|Cameraman
+EnryT|Cameraman
+Lillo467|Cameraman
+JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
+NekoBoyLuke|Cameraman
 #
-# Elenco degli ospiti (Guest)
-# Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, prenotino)
+# Elenco ospiti, giudici e presentatori (Guest)
+# Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, poltrone, prenotino)
 #
-BlackReiss|Guest
 MagicfluteOh|Guest
-_NEFASTO_|Guest
-faunotears|Guest
-ilianor|Guest
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)
-#
-Akahito S|Temporary
-Alexdemon25|Temporary
-AngeloPal84|Temporary
-DrClown88|Temporary
-Fudgehog Piñata|Temporary
-Kirale Cheer|Temporary
-LeoZu|Temporary
-MagusMagnus|Temporary
-MarbieOceano|Temporary
-Nelson_KAELA|Temporary
-Pingüinito|Temporary
-ProdyVT|Temporary
-TennyoYui|Temporary
-ThomasMarsili73|Temporary
-cherubit|Temporary
 #
