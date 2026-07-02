@@ -18,6 +18,7 @@ tappo0730|Helper|FFFF00
 # Elenco dei collaboratori
 #
 TailEarnhardtVT|Event Operator|33CC33
+_NEFASTO_|Developer|33CC33
 NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Angio|Collab|999966
@@ -30,7 +31,7 @@ BlackReiss|Collab|999966
 Malachiel|Cavaliere|009AFF
 HyperControl|Test User|999966
 #
-# Elenco dei cameraman (quando servono)
+# Regia (quando servono)
 #
 #EnryT|Cameraman|999966
 #Lillo467|Cameraman|999966
