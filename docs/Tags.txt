@@ -4,7 +4,6 @@
 # Elenco mod e admin
 #
 DisaGiada|Founder|FF00E8
-Xeincrad|Admin|FF0000
 Moonbright|Admin|FF0000
 Spartan117ITA|Admin|FF0000
 nikfrino|Mod|FFAB00
@@ -29,6 +28,7 @@ BlackReiss|Collab|999966
 Malachiel|Cavaliere|009AFF
 HyperControl|Test User|999966
 _NEFASTO_|Developer|33CC33
+Xeincrad|Developer|33CC33
 #
 # Regia (quando servono)
 #
