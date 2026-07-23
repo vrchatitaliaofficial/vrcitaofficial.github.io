@@ -7,6 +7,7 @@ DisaGiada|Founder|FF00E8
 Moonbright|Admin|FF0000
 Spartan117ITA|Admin|FF0000
 nikfrino|Mod|FFAB00
+TailEarnhardtVT|Mod|FFAB00
 #
 # Elenco degli helper
 #
@@ -15,7 +16,6 @@ tappo0730|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
-TailEarnhardtVT|Event Operator|33CC33
 NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Angio|Collab|999966
@@ -24,11 +24,11 @@ BlackReiss|Collab|999966
 #
 # Altri ruoli
 #
-｜Stampante｜|VIP|009AFF
-Malachiel|Cavaliere|009AFF
-HyperControl|Test User|999966
 _NEFASTO_|Developer|33CC33
 Xeincrad|Developer|33CC33
+HyperControl|Test User|999966
+｜Stampante｜|VIP|009AFF
+Malachiel|Cavaliere|009AFF
 #
 # Regia (quando servono)
 #
