@@ -24,6 +24,7 @@ Lillo467|Cameraman
 JanbasᵺeGrıᴍFøl|Cameraman
 NexusMPL|Cameraman
 NekoBoyLuke|Cameraman
+WisPurr_|Cameraman
 #
 # Elenco ospiti, giudici e presentatori (Guest)
 # Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, poltrone, prenotino)
