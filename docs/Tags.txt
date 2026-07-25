@@ -29,6 +29,7 @@ Xeincrad|Developer|33CC33
 HyperControl|Test User|999966
 ｜Stampante｜|VIP|009AFF
 Malachiel|Cavaliere|009AFF
+PrincipessaMila|Principessa|FFAAAA
 #
 # Regia (quando servono)
 #
