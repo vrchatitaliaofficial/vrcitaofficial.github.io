@@ -16,7 +16,7 @@ tappo0730|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
-NekoBoyLuke|Collab|999966
+#NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Angio|Collab|999966
 Kirale Cheer|Collab|999966
@@ -35,4 +35,11 @@ Malachiel|Cavaliere|009AFF
 #EnryT|Cameraman|999966
 #Lillo467|Cameraman|999966
 #JanbasᵺeGrıᴍFøl|Cameraman|999966
-#NexusMPL|Cameraman|999966
+#
+# Neko Show (temporaneo)
+#
+NekoBoyLuke|Conduttore|33CC33
+Sir_Penguin|Ospite|#999966
+NexusMPL|Regia|999966
+Drago_Magic13|Regia|999966
+WisPurr_|Autore|999966
