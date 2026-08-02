@@ -39,7 +39,7 @@ Malachiel|Cavaliere|009AFF
 # Neko Show (temporaneo)
 #
 NekoBoyLuke|Presentatore|33CC33
-Sir_Penguin|Ospite|#999966
+Sir_Penguin|Ospite|9403fc
 NexusMPL|Regia|999966
 Drago_Magic13|Regia|999966
 WisPurr_|Autore|999966
