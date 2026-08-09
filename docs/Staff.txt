@@ -7,7 +7,7 @@ Xeincrad|Staff
 Xeincrad93|Staff
 Xeincrad23|Staff
 Moonbright|Staff
-Spartan117ITA|Staff
+DuatReaper|Staff
 nikfrino|Staff
 ∗StarKnight∗|Staff
 tappo0730|Staff
@@ -20,21 +20,18 @@ HyperControl|Staff
 #
 MagicfluteOh|Cameraman
 NekoBoyLuke|Cameraman
-#RUOLO TEMPORANEO
-NexusMPL|Cameraman
-WisPurr_|Cameraman
-Drago_Magic13|Cameraman
+#QUANDO SERVONO
 #EnryT|Cameraman
 #Lillo467|Cameraman
 #JanbasᵺeGrıᴍFøl|Cameraman
+#NexusMPL|Cameraman
+#Drago_Magic13|Cameraman
 #
 # Elenco ospiti, giudici e presentatori (Guest)
 # Accesso ai backstage, al palco e alle funzioni sul palco (es. slideshow, poltrone, prenotino)
 #
 MagicfluteOh|Guest
 NekoBoyLuke|Guest
-#RUOLO TEMPORANEO
-Sir_Penguin|Guest
 #
 # Elenco utenti temporanei (Temporary)
 # Accesso ai backstage e a funzioni relative ad eventi (es. candela torta)

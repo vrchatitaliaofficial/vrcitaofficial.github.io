@@ -5,7 +5,7 @@
 #
 DisaGiada|Founder|FF00E8
 Moonbright|Admin|FF0000
-Spartan117ITA|Admin|FF0000
+DuatReaper|Admin|FF0000
 nikfrino|Mod|FFAB00
 TailEarnhardtVT|Mod|FFAB00
 #
@@ -16,7 +16,7 @@ tappo0730|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
-#NekoBoyLuke|Collab|999966
+NekoBoyLuke|Collab|999966
 Defalt4l|Collab|999966
 Angio|Collab|999966
 Kirale Cheer|Collab|999966
@@ -32,14 +32,8 @@ Malachiel|Cavaliere|009AFF
 #
 # Regia (quando servono)
 #
-#EnryT|Cameraman|999966
-#Lillo467|Cameraman|999966
-#JanbasᵺeGrıᴍFøl|Cameraman|999966
-#
-# Neko Show (temporaneo)
-#
-NekoBoyLuke|Presentatore|33CC33
-Sir_Penguin|Ospite|9403fc
-NexusMPL|Regia|999966
-Drago_Magic13|Regia|999966
-WisPurr_|Autore|999966
+#EnryT|Regia|999966
+#Lillo467|Regia|999966
+#JanbasᵺeGrıᴍFøl|Regia|999966
+#NexusMPL|Regia|999966
+#Drago_Magic13|Regia|999966
