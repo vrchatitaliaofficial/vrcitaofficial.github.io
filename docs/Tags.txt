@@ -5,7 +5,6 @@
 #
 DisaGiada|Founder|FF00E8
 Moonbright|Admin|FF0000
-DuatReaper|Admin|FF0000
 nikfrino|Mod|FFAB00
 TailEarnhardtVT|Mod|FFAB00
 #
