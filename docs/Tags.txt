@@ -12,6 +12,7 @@ TailEarnhardtVT|Mod|FFAB00
 #
 ∗StarKnight∗|Helper|FFFF00
 tappo0730|Helper|FFFF00
+_N3RU_|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
@@ -20,12 +21,12 @@ Defalt4l|Collab|999966
 Angio|Collab|999966
 Kirale Cheer|Collab|999966
 BlackReiss|Collab|999966
+HyperControl|Collab|999966
 #
 # Altri ruoli
 #
 _NEFASTO_|Developer|33CC33
 Xeincrad|Developer|33CC33
-HyperControl|HoloNexia|999966
 ｜Stampante｜|VIP|009AFF
 Malachiel|Cavaliere|009AFF
 #
