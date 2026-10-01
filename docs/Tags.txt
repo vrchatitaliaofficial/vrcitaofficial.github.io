@@ -12,7 +12,6 @@ TailEarnhardtVT|Mod|FFAB00
 #
 ∗StarKnight∗|Helper|FFFF00
 tappo0730|Helper|FFFF00
-_N3RU_|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
