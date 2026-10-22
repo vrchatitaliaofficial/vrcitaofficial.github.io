@@ -12,6 +12,7 @@ TailEarnhardtVT|Mod|FFAB00
 #
 ∗StarKnight∗|Helper|FFFF00
 tappo0730|Helper|FFFF00
+ItsAlexia89|Helper|FFFF00
 #
 # Elenco dei collaboratori
 #
