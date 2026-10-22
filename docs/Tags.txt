@@ -10,7 +10,7 @@ TailEarnhardtVT|Mod|FFAB00
 #
 # Elenco degli helper
 #
-#∗StarKnight∗|Helper|FFFF00
+∗StarKnight∗|Helper|FFFF00
 tappo0730|Helper|FFFF00
 #
 # Elenco dei collaboratori
